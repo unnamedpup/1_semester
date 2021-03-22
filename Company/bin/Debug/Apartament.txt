@@ -1,0 +1,4 @@
+15,123,lol,True,True,3
+12,123,af,True,False,123
+132,231,daas,True,True,123
+2,2,Город,True,False,2

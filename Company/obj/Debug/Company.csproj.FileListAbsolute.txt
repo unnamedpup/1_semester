@@ -1,0 +1,10 @@
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\bin\Debug\Company.exe.config
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\bin\Debug\Company.exe
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\bin\Debug\Company.pdb
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.exe
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.pdb
+C:\Users\Даниил\Desktop\C#\Company\Company\Company\obj\Debug\Company.Form1.resources

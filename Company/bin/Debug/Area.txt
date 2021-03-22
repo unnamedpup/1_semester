@@ -1,0 +1,5 @@
+12,12,fsf,False
+12,12,fsf,False
+12,12,fsf,False
+13,134,Город,True
+4,4,troll,False
